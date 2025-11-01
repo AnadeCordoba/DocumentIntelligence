@@ -1,4 +1,4 @@
-# 🧠 Azure Document Intelligence — Procesamiento y Extracción de Información
+# Azure Document Intelligence — Procesamiento y Extracción de Información
 
 Este repositorio contiene una serie de scripts en Python que demuestran cómo utilizar el **SDK de Azure Document Intelligence (antes Form Recognizer)** para analizar documentos de distintos tipos —PDF, JPG, PNG— y convertirlos en **datos estructurados listos para su análisis**.
 
